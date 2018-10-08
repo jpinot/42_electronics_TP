@@ -1,0 +1,32 @@
+Added Component: Designator=D1_LED0(LED_0805)
+Added Component: Designator=D1_LED1(LED_0805)
+Added Component: Designator=D1_LED31(LED_0805)
+Added Component: Designator=D1_LED32(LED_0805)
+Added Component: Designator=R2_LED0(RESC1608N)
+Added Component: Designator=R2_LED1(RESC1608N)
+Added Component: Designator=R2_LED31(RESC1608N)
+Added Component: Designator=R2_LED32(RESC1608N)
+Added Pin To Net: NetName=NetD1_LED0_1 Pin=D1_LED0-1
+Added Pin To Net: NetName=GND Pin=D1_LED0-2
+Added Pin To Net: NetName=NetD1_LED1_1 Pin=D1_LED1-1
+Added Pin To Net: NetName=GND Pin=D1_LED1-2
+Added Pin To Net: NetName=NetD1_LED31_1 Pin=D1_LED31-1
+Added Pin To Net: NetName=GND Pin=D1_LED31-2
+Added Pin To Net: NetName=NetD1_LED32_1 Pin=D1_LED32-1
+Added Pin To Net: NetName=GND Pin=D1_LED32-2
+Added Pin To Net: NetName=NetD1_LED0_1 Pin=R2_LED0-1
+Added Pin To Net: NetName=LED0 Pin=R2_LED0-2
+Added Pin To Net: NetName=NetD1_LED1_1 Pin=R2_LED1-1
+Added Pin To Net: NetName=LED1 Pin=R2_LED1-2
+Added Pin To Net: NetName=NetD1_LED31_1 Pin=R2_LED31-1
+Added Pin To Net: NetName=LED2 Pin=R2_LED31-2
+Added Pin To Net: NetName=NetD1_LED32_1 Pin=R2_LED32-1
+Added Pin To Net: NetName=LED3 Pin=R2_LED32-2
+Added Member To Class: ClassName=LED0 Member=Component D1_LED0 (D1) Green LED
+Added Member To Class: ClassName=LED1 Member=Component D1_LED1 (D1) Green LED
+Added Member To Class: ClassName=LED31 Member=Component D1_LED31 (D1) Green LED
+Added Member To Class: ClassName=LED32 Member=Component D1_LED32 (D1) Green LED
+Added Member To Class: ClassName=LED0 Member=Component R2_LED0 (R2) Comment
+Added Member To Class: ClassName=LED1 Member=Component R2_LED1 (R2) Comment
+Added Member To Class: ClassName=LED31 Member=Component R2_LED31 (R2) Comment
+Added Member To Class: ClassName=LED32 Member=Component R2_LED32 (R2) Comment

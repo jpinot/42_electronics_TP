@@ -1,0 +1,239 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C2 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C3 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C4 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C5 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C6 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C7 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C8 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C9 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C10 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C11 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C12 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C13 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C14 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C15 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=Component_1
+Change Component DesignItemId : Designator=D2 Old DesignItemId= New DesignItemId=Diode
+Change Component DesignItemId : Designator=P1 Old DesignItemId= New DesignItemId=Header 2H
+Change Component DesignItemId : Designator=P2 Old DesignItemId= New DesignItemId=Header 2H
+Change Component DesignItemId : Designator=J1 Old DesignItemId= New DesignItemId=Header 6
+Change Component DesignItemId : Designator=FB1 Old DesignItemId= New DesignItemId=Inductor
+Change Component DesignItemId : Designator=D1_LED0 Old DesignItemId= New DesignItemId=LED0
+Change Component DesignItemId : Designator=D1_LED1 Old DesignItemId= New DesignItemId=LED0
+Change Component DesignItemId : Designator=D1_LED2 Old DesignItemId= New DesignItemId=LED0
+Change Component DesignItemId : Designator=D1_LED3 Old DesignItemId= New DesignItemId=LED0
+Change Component DesignItemId : Designator=D4 Old DesignItemId= New DesignItemId=LED2
+Change Component DesignItemId : Designator=R2_LED0 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R2_LED1 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R2_LED2 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R2_LED3 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R3 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R4 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R1 Old DesignItemId= New DesignItemId=RPot
+Change Component DesignItemId : Designator=Y1 Old DesignItemId= New DesignItemId=XTAL
+Change Component Comment : Designator=U1 Old Comment=Comment New Comment=PIC32MX764F128H-I/PT
+Change Component Description : Designator=C1 Old Description= New Description=Capacitor
+Change Component Description : Designator=C2 Old Description= New Description=Capacitor
+Change Component Description : Designator=C3 Old Description= New Description=Capacitor
+Change Component Description : Designator=C4 Old Description= New Description=Capacitor
+Change Component Description : Designator=C5 Old Description= New Description=Capacitor
+Change Component Description : Designator=C6 Old Description= New Description=Capacitor
+Change Component Description : Designator=C7 Old Description= New Description=Capacitor
+Change Component Description : Designator=C8 Old Description= New Description=Capacitor
+Change Component Description : Designator=C9 Old Description= New Description=Capacitor
+Change Component Description : Designator=C10 Old Description= New Description=Capacitor
+Change Component Description : Designator=C11 Old Description= New Description=Capacitor
+Change Component Description : Designator=C12 Old Description= New Description=Capacitor
+Change Component Description : Designator=C13 Old Description= New Description=Capacitor
+Change Component Description : Designator=C14 Old Description= New Description=Capacitor
+Change Component Description : Designator=C15 Old Description= New Description=Capacitor
+Change Component Description : Designator=Y1 Old Description= New Description=Crystal Oscillator
+Change Component Description : Designator=D2 Old Description= New Description=Default Diode
+Change Component Description : Designator=P1 Old Description= New Description=Header, 2-Pin, Right Angle
+Change Component Description : Designator=P2 Old Description= New Description=Header, 2-Pin, Right Angle
+Change Component Description : Designator=J1 Old Description= New Description=Header, 6-Pin
+Change Component Description : Designator=FB1 Old Description= New Description=Inductor
+Change Component Description : Designator=U1 Old Description= New Description=PIC32MX764F128H-I/PT
+Change Component Description : Designator=R1 Old Description= New Description=Potentiometer
+Change Component Description : Designator=R2_LED0 Old Description= New Description=Resistor
+Change Component Description : Designator=R2_LED1 Old Description= New Description=Resistor
+Change Component Description : Designator=R2_LED2 Old Description= New Description=Resistor
+Change Component Description : Designator=R2_LED3 Old Description= New Description=Resistor
+Change Component Description : Designator=R3 Old Description= New Description=Resistor
+Change Component Description : Designator=R4 Old Description= New Description=Resistor
+Change Component Description : Designator=D1_LED0 Old Description= New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D1_LED1 Old Description= New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D1_LED2 Old Description= New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D1_LED3 Old Description= New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D4 Old Description= New Description=Typical RED, GREEN, YELLOW, AMBER GaAs LED
+Change Component Library : Designator=J1 Old Library= New Library=Miscellaneous Connectors.IntLib
+Change Component Library : Designator=P1 Old Library= New Library=Miscellaneous Connectors.IntLib
+Change Component Library : Designator=P2 Old Library= New Library=Miscellaneous Connectors.IntLib
+Change Component Library : Designator=C1 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C2 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C3 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C4 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C5 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C6 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C7 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C8 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C9 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C10 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C11 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C12 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C13 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C14 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C15 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=D1_LED0 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=D1_LED1 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=D1_LED2 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=D1_LED3 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=D2 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=D4 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=FB1 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R1 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R2_LED0 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R2_LED1 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R2_LED2 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R2_LED3 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R3 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R4 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=Y1 Old Library= New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=U1 Old Library= New Library=TP2.SchLib
+Added Component: Designator=D1(SMC)
+Added Component: Designator=U3(MHDR2X2)
+Added Pin To Net: NetName=ALIM Pin=D1-1
+Added Pin To Net: NetName=ALIM Pin=P1-1
+Added Pin To Net: NetName=ALIM Pin=P1-1
+Added Net: Name=ALIM
+Added Pin To Net: NetName=BATTERY Pin=D2-1
+Added Pin To Net: NetName=BATTERY Pin=P2-1
+Added Pin To Net: NetName=BATTERY Pin=P2-1
+Added Net: Name=BATTERY
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=D1_LED0-2
+Added Pin To Net: NetName=GND Pin=D1_LED1-2
+Added Pin To Net: NetName=GND Pin=D1_LED2-2
+Added Pin To Net: NetName=GND Pin=D1_LED3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-41
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LED0 Pin=R2_LED0-2
+Added Pin To Net: NetName=LED0 Pin=U1-46
+Added Net: Name=LED0
+Added Pin To Net: NetName=LED1 Pin=R2_LED1-2
+Added Pin To Net: NetName=LED1 Pin=U1-49
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=R2_LED2-2
+Added Pin To Net: NetName=LED2 Pin=U1-50
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=R2_LED3-2
+Added Pin To Net: NetName=LED3 Pin=U1-51
+Added Net: Name=LED3
+Added Pin To Net: NetName=MCLR Pin=J1-1
+Added Pin To Net: NetName=MCLR Pin=R3-1
+Added Pin To Net: NetName=MCLR Pin=U1-7
+Added Net: Name=MCLR
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=C10-2
+Added Pin To Net: NetName=NetC9_2 Pin=U1-56
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetD1_LED0_1 Pin=D1_LED0-1
+Added Pin To Net: NetName=NetD1_LED0_1 Pin=R2_LED0-1
+Added Net: Name=NetD1_LED0_1
+Added Pin To Net: NetName=NetD1_LED1_1 Pin=D1_LED1-1
+Added Pin To Net: NetName=NetD1_LED1_1 Pin=R2_LED1-1
+Added Net: Name=NetD1_LED1_1
+Added Pin To Net: NetName=NetD1_LED2_1 Pin=D1_LED2-1
+Added Pin To Net: NetName=NetD1_LED2_1 Pin=R2_LED2-1
+Added Net: Name=NetD1_LED2_1
+Added Pin To Net: NetName=NetD1_LED3_1 Pin=D1_LED3-1
+Added Pin To Net: NetName=NetD1_LED3_1 Pin=R2_LED3-1
+Added Net: Name=NetD1_LED3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R4-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetR1_3 Pin=U1-14
+Added Net: Name=NetR1_3
+Added Pin To Net: NetName=PGC Pin=J1-5
+Added Pin To Net: NetName=PGC Pin=U1-15
+Added Net: Name=PGC
+Added Pin To Net: NetName=PGD Pin=J1-4
+Added Pin To Net: NetName=PGD Pin=U1-16
+Added Net: Name=PGD
+Added Pin To Net: NetName=V3P3A Pin=C6-1
+Added Pin To Net: NetName=V3P3A Pin=C15-2
+Added Pin To Net: NetName=V3P3A Pin=R1-1
+Added Pin To Net: NetName=V3P3A Pin=R1-1
+Added Pin To Net: NetName=V3P3A Pin=R1-1
+Added Pin To Net: NetName=V3P3A Pin=U1-19
+Added Net: Name=V3P3A
+Added Pin To Net: NetName=V3P3 Pin=C1-1
+Added Pin To Net: NetName=V3P3 Pin=C2-1
+Added Pin To Net: NetName=V3P3 Pin=C3-1
+Added Pin To Net: NetName=V3P3 Pin=C4-1
+Added Pin To Net: NetName=V3P3 Pin=C5-1
+Added Pin To Net: NetName=V3P3 Pin=C13-2
+Added Pin To Net: NetName=V3P3 Pin=C14-2
+Added Pin To Net: NetName=V3P3 Pin=FB1-1
+Added Pin To Net: NetName=V3P3 Pin=FB1-1
+Added Pin To Net: NetName=V3P3 Pin=J1-2
+Added Pin To Net: NetName=V3P3 Pin=R3-2
+Added Pin To Net: NetName=V3P3 Pin=U1-10
+Added Pin To Net: NetName=V3P3 Pin=U1-26
+Added Pin To Net: NetName=V3P3 Pin=U1-35
+Added Pin To Net: NetName=V3P3 Pin=U1-38
+Added Pin To Net: NetName=V3P3 Pin=U1-57
+Added Pin To Net: NetName=V3P3 Pin=U3-4
+Added Net: Name=V3P3
+Added Pin To Net: NetName=V5 Pin=C11-2
+Added Pin To Net: NetName=V5 Pin=C12-2
+Added Pin To Net: NetName=V5 Pin=D1-2
+Added Pin To Net: NetName=V5 Pin=D2-2
+Added Pin To Net: NetName=V5 Pin=R4-2
+Added Pin To Net: NetName=V5 Pin=U3-3
+Added Net: Name=V5
+Added Pin To Net: NetName=X1 Pin=C7-1
+Added Pin To Net: NetName=X1 Pin=U1-39
+Added Pin To Net: NetName=X1 Pin=Y1-2
+Added Net: Name=X1
+Added Pin To Net: NetName=X2 Pin=C8-1
+Added Pin To Net: NetName=X2 Pin=U1-40
+Added Pin To Net: NetName=X2 Pin=Y1-1
+Added Net: Name=X2
+Added Class: Name=Designator
+Added Class: Name=LED0
+Added Class: Name=LED1
+Added Class: Name=LED2
+Added Class: Name=LED3
+Added Class: Name=PIC
+Added Class: Name=PROYECTO_PROBOT
+Added Class: Name=LED[0..3]
+Added Class: Name=led
+Added Room: Name=Designator
+Added Room: Name=LED0
+Added Room: Name=LED1
+Added Room: Name=LED2
+Added Room: Name=LED3
+Added Room: Name=PIC
+Added Room: Name=PROYECTO_PROBOT

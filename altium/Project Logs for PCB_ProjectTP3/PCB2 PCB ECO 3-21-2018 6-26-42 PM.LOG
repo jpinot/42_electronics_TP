@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=MCLR Pin=U1-7
+Removed Pin From Net: NetName=PGC Pin=U1-15
+Removed Pin From Net: NetName=PGD Pin=U1-16
+Removed Pin From Net: NetName=X2 Pin=U1-40
+Removed Pin From Net: NetName=LED0 Pin=U1-46
+Removed Pin From Net: NetName=LED1 Pin=U1-49
+Removed Pin From Net: NetName=LED2 Pin=U1-50
+Removed Pin From Net: NetName=LED3 Pin=U1-51
+Change Component Comment : Designator=D1_LED0 Old Comment=D1 New Comment=Green LED
+Change Component Comment : Designator=D1_LED1 Old Comment=D1 New Comment=Green LED
+Change Component Comment : Designator=D1_LED2 Old Comment=D1 New Comment=Green LED
+Change Component Comment : Designator=D1_LED3 Old Comment=D1 New Comment=Green LED
+Change Component Comment : Designator=R2_LED0 Old Comment=R2 New Comment=Comment
+Change Component Comment : Designator=R2_LED1 Old Comment=R2 New Comment=Comment
+Change Component Comment : Designator=R2_LED2 Old Comment=R2 New Comment=Comment
+Change Component Comment : Designator=R2_LED3 Old Comment=R2 New Comment=Comment

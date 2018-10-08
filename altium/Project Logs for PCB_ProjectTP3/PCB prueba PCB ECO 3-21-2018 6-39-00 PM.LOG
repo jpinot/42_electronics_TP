@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=MCLR Pin=U1-7
+Added Pin To Net: NetName=PGC Pin=U1-15
+Added Pin To Net: NetName=PGD Pin=U1-16
+Added Pin To Net: NetName=X1 Pin=U1-39
+Added Pin To Net: NetName=X2 Pin=U1-40
+Added Pin To Net: NetName=LED0 Pin=U1-46
+Added Pin To Net: NetName=LED1 Pin=U1-49
+Added Pin To Net: NetName=LED2 Pin=U1-50
+Added Pin To Net: NetName=LED3 Pin=U1-51
+Added Member To Class: ClassName=PROYECTO_PROBOT Member=Component R1 1K
+Added Room: Name=LED0
+Added Room: Name=LED1
+Added Room: Name=LED2
+Added Room: Name=LED3
+Added Room: Name=PIC
+Added Room: Name=POWER
+Added Room: Name=PROYECTO_PROBOT

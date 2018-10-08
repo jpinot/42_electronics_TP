@@ -1,0 +1,4 @@
+Added Component: Designator=FB1(INDC1608AN)
+Added Pin To Net: NetName=V3P3 Pin=FB1-1
+Added Pin To Net: NetName=V3P3A Pin=FB1-2
+Added Member To Class: ClassName=POWER Member=Component FB1 Comment

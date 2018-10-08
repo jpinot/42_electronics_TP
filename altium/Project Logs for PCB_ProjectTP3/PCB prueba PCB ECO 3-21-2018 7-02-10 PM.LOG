@@ -1,0 +1,27 @@
+Added Component: Designator=R1(PDB181-K415K-102A2)
+Added Component: Designator=U2(TD03B_N)
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=V3P3A Pin=R1-2
+Added Pin To Net: NetName=NetR1_3 Pin=R1-3
+Added Pin To Net: NetName=MCLR Pin=U1-7
+Added Pin To Net: NetName=PGC Pin=U1-15
+Added Pin To Net: NetName=PGD Pin=U1-16
+Added Pin To Net: NetName=X1 Pin=U1-39
+Added Pin To Net: NetName=X2 Pin=U1-40
+Added Pin To Net: NetName=LED0 Pin=U1-46
+Added Pin To Net: NetName=LED1 Pin=U1-49
+Added Pin To Net: NetName=LED2 Pin=U1-50
+Added Pin To Net: NetName=LED3 Pin=U1-51
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=V5 Pin=U2-3
+Added Pin To Net: NetName=V3P3 Pin=U2-4
+Change Net Name : Old Net Name=NetC9_2 New Net Name=VCAP
+Added Member To Class: ClassName=PROYECTO_PROBOT Member=Component R1 1K
+Added Member To Class: ClassName=POWER Member=Component U2 
+Added Room: Name=LED0
+Added Room: Name=LED1
+Added Room: Name=LED2
+Added Room: Name=LED3
+Added Room: Name=PIC
+Added Room: Name=POWER
+Added Room: Name=PROYECTO_PROBOT

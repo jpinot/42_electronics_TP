@@ -1,0 +1,30 @@
+Added Component: Designator=U1(QFP50P1200X1200X120-64)
+Added Pin To Net: NetName=MCLR Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=V3P3 Pin=U1-10
+Added Pin To Net: NetName=NetR1_3 Pin=U1-14
+Added Pin To Net: NetName=PGC Pin=U1-15
+Added Pin To Net: NetName=PGD Pin=U1-16
+Added Pin To Net: NetName=V3P3A Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=V3P3 Pin=U1-26
+Added Pin To Net: NetName=V3P3 Pin=U1-35
+Added Pin To Net: NetName=V3P3 Pin=U1-38
+Added Pin To Net: NetName=X1 Pin=U1-39
+Added Pin To Net: NetName=X2 Pin=U1-40
+Added Pin To Net: NetName=GND Pin=U1-41
+Added Pin To Net: NetName=LED0 Pin=U1-46
+Added Pin To Net: NetName=LED1 Pin=U1-49
+Added Pin To Net: NetName=LED2 Pin=U1-50
+Added Pin To Net: NetName=LED3 Pin=U1-51
+Added Pin To Net: NetName=VCAP Pin=U1-56
+Added Pin To Net: NetName=V3P3 Pin=U1-57
+Added Member To Class: ClassName=PIC Member=Component U1 PIC32MX764F128H-I/PT
+Added Room: Name=LED0
+Added Room: Name=LED1
+Added Room: Name=LED2
+Added Room: Name=LED3
+Added Room: Name=PIC
+Added Room: Name=POWER
+Added Room: Name=PROYECTO_PROBOT
